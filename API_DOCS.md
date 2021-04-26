@@ -41,6 +41,8 @@ Key | Value | Remark
 }
 ```
 
+---
+
 ### Subscriber Login
 
 #### Request
@@ -79,6 +81,8 @@ The `data` value is `{{user_token}}`.
     "data": ""
 }
 ```
+
+---
 
 ### Subsciber Change Password
 
@@ -119,6 +123,9 @@ Key | Value | Remark
     "msg": "Update Password Failed"
 }
 ```
+
+---
+
 ### Subsciber Profile
 
 #### Request
@@ -162,6 +169,8 @@ Key | Value | Remark
 }
 ```
 
+---
+
 ### Default Theme File
 
 #### Request
@@ -188,6 +197,9 @@ Key | Value | Remark
     "msg": "No Theme File Found, Please check theme manager setting."
 }
 ```
+
+---
+
 ### Category Lisitng
 
 #### Request
@@ -218,6 +230,8 @@ Key | Value | Remark
     "msg": ""
 }
 ```
+
+---
 
 ### Get Movie By Category
 
